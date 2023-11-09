@@ -1,0 +1,15 @@
+{
+  "name": "moduleenabler",
+  "version": "1.0.0",
+  "factorio_version": "1.1",
+  "title": "Module Enabler",
+  "author": "oolivero45",
+  "contact": "oolivero45@oolivero45.net",
+  "homepage": "https://oolivero45.net",
+  "dependencies": [
+    "base >= 1.1.0",
+    "bobmodules >= 1.1.6",
+    "angelsbioprocessing >= 0.7.24"
+  ],
+  "description": "A quick and simple mod to prevent Angel's Bioprocessing from disabling the 'Transmit Productivity' setting from Bob's Modules."
+}
